@@ -1,0 +1,5 @@
+Artículo 23 Bis.- Es una obligación de los prestadores de los servicios médicos municipales, el informar de forma suficiente, oportuna y veraz a los usuarios con respecto a su salud sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se considere oportuno indicar o aplicar, para que los usuarios puedan decidir de manera libre sobre la atención de los mismos.
+En caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador del servicio de salud procederá de inmediato para preservar la vida y la salud del usuario, dejando constancia en el expediente clínico.
+Los usuarios de los servicios médicos municipales en general, contarán con facilidades para acceder a una segunda opinión. (Esta adición fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 8 de septiembre de 2014 y publicada el 22 de septiembre de 2014 en el Suplemento de la Gaceta Municipal.)
+Capítulo VIII
+De la participación de la comunidad.

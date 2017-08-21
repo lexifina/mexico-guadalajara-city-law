@@ -1,0 +1,1 @@
+Artículo 20 Bis. Las disposiciones de este capítulo son de orden público e interés general y tienen por objeto proteger el bienestar físico y mental de las personas, para contribuir al ejercicio pleno de sus capacidades en el ámbito de competencia municipal.

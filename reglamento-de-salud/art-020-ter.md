@@ -1,0 +1,1 @@
+Artículo 20 Ter. La aplicación y vigilancia del cumplimiento de este capítulo será facultad de las autoridades municipales en su respectivo ámbito de competencia.

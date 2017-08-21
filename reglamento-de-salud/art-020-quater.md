@@ -1,0 +1,1 @@
+Artículo 20 Quater. Los propietarios y encargados tendrán la obligación de fijar en el interior de todo local en el que se practiquen actividades relativas a juegos de azar, apuestas o sorteos, carteles en lugares visibles al público en los que se haga del conocimiento que la practica reiterada de los juegos de azar perjudica la salud, pudiendo generar ludopatía.
