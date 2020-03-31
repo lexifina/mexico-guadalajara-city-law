@@ -1,0 +1,3 @@
+Artículo 235 nonies. Los ex servidores públicos que se encuentren dentro del proceso de revisión de las cuentas públicas de las que en su momento fueron responsables, podrán solicitar a las dependencias de la administración pública municipal la información, datos y certificación de documentos, sin costo alguno, para solventar las observaciones y recomendaciones que les fueron formuladas por la Auditoría Superior del Estado de Jalisco. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 21 de junio de 2017 y publicada el 26 de junio de 2017 en el Suplemento de la Gaceta Municipal.)
+CAPÍTULO IV
+Sanciones

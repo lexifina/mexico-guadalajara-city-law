@@ -1,0 +1,3 @@
+Artículo 235 septies. Los servidores públicos que sean considerados como sujetos auditables y fiscalizables, deberán de remitir a la Contraloría Ciudadana dentro de los cinco días hábiles siguientes al inicio de su cargo, su domicilio para recibir notificaciones, donde se les notifique de los resultados de las auditorías y revisiones a la cuenta pública, teniendo la obligación dicho
+209
+funcionario de actualizar el mismo cuando hayan dejado el cargo o existan cambios del domicilio señalado, de lo contrario, las notificaciones que deban practicárseles se les realizarán mediante su publicación, por única ocasión, en los estrados del Palacio Municipal.

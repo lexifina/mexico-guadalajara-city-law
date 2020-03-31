@@ -1,0 +1,2 @@
+Artículo 235 ter. Los servidores públicos así como las personas físicas o jurídicas mencionados en el artículo anterior, serán considerados como sujetos auditables y fiscalizables de acuerdo a lo estipulado en la legislación en materia de fiscalización y auditoría pública y la normatividad aplicable, es decir, serán responsables por los actos u omisiones que les sean directa o solidariamente imputables de acuerdo a las actividades desarrolladas por la naturaleza de su encargo.
+206

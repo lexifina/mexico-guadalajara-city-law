@@ -1,0 +1,1 @@
+Artículo 151 bis. La Coordinación General de Comunicación Institucional tiene por objeto generar insumos para la toma de decisiones del Presidente Municipal y establecer los lineamientos y estrategias para comunicar las acciones del Gobierno Municipal.
