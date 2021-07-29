@@ -1,0 +1,1 @@
+Reglamento Escolar para Padres y Madres de Familia de los Centros de Desarrollo Comunitario y Centros de Atención Infantil Comunitaria del Organismo Público Descentralizado de la Administración Pública Municipal Denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara.
