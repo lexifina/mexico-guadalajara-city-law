@@ -1,0 +1,5 @@
+REGLAMENTO DEL SISTEMA ANTICORRUPCIÓN DEL MUNICIPIO DE
+GUADALAJARA
+Título Primero
+Capítulo I
+Disposiciones Generales
