@@ -1,0 +1,3 @@
+Artículo 2 Bis.- La Dirección de Inspección y Vigilancia, realizará las visitas de inspección de conformidad con las disposiciones correspondientes, con el objeto de comprobar el estricto cumplimiento de este reglamento y demás reglamentación municipal aplicable a la construcción, instalación,
+5
+uso, mantenimiento o reparación de estructuras para sistemas de telecomunicaciones y, en su caso, podrá iniciar los procedimientos correspondientes para la imposición de medidas de seguridad o sanciones que correspondan. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 24 de octubre de 2022 y publicada el 31 de octubre de 2022 en el Suplemento de la Gaceta Municipal.)
