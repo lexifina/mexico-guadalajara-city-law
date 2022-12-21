@@ -1,0 +1,4 @@
+Artículo 11 Ter. La información señalada en el artículo 11 Bis debe ser publicada y vinculada en tiempo real, a través de plataformas digitales, una vez contratado atendiendo a los tiempos de los procesos y de la ejecución de los proyectos.
+Para efectos de este artículo se entiende por tiempo real, el momento inmediato en el cual la información es procesada, validada y oficializada por la Dirección de Obras Públicas de acuerdo con las etapas del proceso y participación de las áreas involucradas, una vez contratados los proyectos de infraestructura, obra pública y servicios relacionados con la misma. (Esta adición fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 16 de diciembre de 2022 y publicada el 21 de diciembre de 2022 en el Suplemento de la Gaceta Municipal)
+Capítulo II
+Planeación y Programación de la Obra Pública
