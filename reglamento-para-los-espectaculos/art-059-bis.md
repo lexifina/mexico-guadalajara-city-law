@@ -1,0 +1,2 @@
+Artículo 59 bis.- Las empresas cuya actividad principal sea la operación de medios electrónicos para emitir, distribución y venta de boletos de ingreso a cualquier espectáculo, requerirán permiso de operación otorgado por la Dirección de Padrón y Licencias en los términos del presente reglamento.
+Este permiso se deberá refrendar cada año, en el periodo comprendido desde el 1 de enero y hasta el 28 de febrero.

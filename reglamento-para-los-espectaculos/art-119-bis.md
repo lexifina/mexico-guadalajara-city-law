@@ -1,0 +1,4 @@
+Artículo 119 bis.- Para el desarrollo de sus funciones y mediante las gestiones pertinentes ante las autoridades municipales responsables, podrá asistirse de la conformación de un cuerpo de asistencia técnico y médico,
+requerido, en los términos que establece el párrafo tercero del artículo 117 del presente ordenamiento, con las siguientes finalidades:
+I. Atender las solicitudes que le sean formuladas por presuntas irregularidades que se detecten con motivo de la práctica de estas disciplinas;
+II. Emitir opinión respecto a la posible inhabilitación, cancelación de licencia deportiva u otras acciones sancionatorias, en contra de quienes resulten responsables de exponer, ocasionar daños a la salud o provocar la muerte a ejecutantes de cualquier disciplina deportiva supervisada por la comisión; y III. Las demás previstas en la normatividad aplicable. (Reforma aprobada en sesión ordinaria celebrada el 16 de agosto de 2016 y publicada el 25 de agosto de 2016)

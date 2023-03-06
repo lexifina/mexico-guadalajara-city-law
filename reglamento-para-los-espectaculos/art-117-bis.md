@@ -1,0 +1,5 @@
+Artículo 117 bis.- La comisión procurará, mediante las gestiones necesarias, la conformación de un padrón de todas aquellas personas, físicas o jurídicas, que realicen actividades relacionadas con las disposiciones del presente Título, a través de un registro que se actualizará de manera anual, en el cual deberán de asentarse los datos del padrón de profesionales y practicantes de las disciplinas, referidas en la fracción XIII del artículo 6 del presente ordenamiento, interesados en formar parte del mismo y todos aquellos responsables de gimnasios, escuelas y centros de formación deportiva disciplinaria, managers, promotores, empresarios y demás responsables, así como todos aquellos sujetos que pertenezcan al respectivo gremio deportivo, según su actividad y desempeño.
+Dicho padrón deberá de ser entregado a la Comisión Edilicia de Espectáculos
+Públicos
+y
+Festividades Cívicas, para su respectivo conocimiento, antes del cuarto mes de cada anualidad. (Reforma aprobada en sesión ordinaria celebrada el 16 de agosto de 2016 y publicada el 25 de agosto de 2016)

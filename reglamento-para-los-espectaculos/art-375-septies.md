@@ -1,0 +1,1 @@
+Artículo 375 septies.- Los acuerdos y resoluciones dictados por la comisión, se considerarán aceptados por las partes afectadas, si estas no piden su modificación o revocación dentro del plazo de ochodías naturales contados a partir de la fecha en que hayan sido notificados.

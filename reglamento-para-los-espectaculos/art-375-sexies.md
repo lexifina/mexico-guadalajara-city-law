@@ -1,0 +1,2 @@
+Artículo 375 sexies.- Los recursos de informidad deberán presentarse por escrito ante la comisión, en la sesión inmediata a la función de que se trate y serán resueltas por la misma, dentro de un plazo no mayor de treintadías naturales a partir de su presentación.
+Queda prohibido a manejadores, auxiliares, peleadores y luchadores, protestar públicamente los fallos o decisiones que se dicten sobre el ring.

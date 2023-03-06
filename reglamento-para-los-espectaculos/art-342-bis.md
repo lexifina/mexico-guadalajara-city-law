@@ -1,0 +1,1 @@
+Artículo 342 bis.- Se requiere de licencia otorgada por la Dirección de Padrón y Licencias para usar un local destinado a la celebración de un espectáculo de lucha libre, el cual en todos los casos debe contar con área destinada a la enfermería y servicios médicos acreditados.

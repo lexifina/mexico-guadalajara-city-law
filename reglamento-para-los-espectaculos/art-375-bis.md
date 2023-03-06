@@ -1,0 +1,5 @@
+Artículo 375bis.- Cuando las sanciones se apliquen a luchadores foráneos, la comisión tiene la obligación de hacer del conocimiento de la respectiva comisión de origen que le expidió su licencia dicha circunstancia. (Reforma aprobada en sesión ordinaria celebrada el 16 de agosto de 2016 y publicada el 25 de agosto de 2016)
+Capítulo X
+De las artes marciales mixtas
+(Reforma aprobada en sesión ordinaria celebrada el 16 de agosto de 2016
+y publicada el 25 de agosto de 2016)
