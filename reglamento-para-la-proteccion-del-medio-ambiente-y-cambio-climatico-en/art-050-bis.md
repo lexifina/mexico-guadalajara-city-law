@@ -1,0 +1,2 @@
+Artículo 50 bis.- Queda estrictamente prohibido a los propietarios o responsable de clínicas, hospitales, laboratorios, centros de investigación, servicios de ambulancias y similares, arrojen a la vía pública residuos biológico-infecciosos, se generen en los establecimientos en
+los que prestan atención médica. (Esta reforma fue aprobada en sesión ordinaria del 31 de julio de 2012 y publicada el 14 de agosto de 2012)

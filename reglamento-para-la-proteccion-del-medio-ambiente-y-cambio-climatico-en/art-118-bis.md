@@ -1,0 +1,5 @@
+Artículo 118 Bis.- Asimismo, la autoridad municipal, promoverá ante la federación, la ejecución, en los términos de las leyes relativas, de alguna o algunas de las medidas de seguridad que en dichos ordenamientos se establezcan, sin perjuicio de las atribuciones que se reserve como exclusivas la federación para estos casos.
+Cuando la autoridad municipal ordene alguna de las medidas de seguridad previstas en este reglamento, deberá indicar al interesado, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta, lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
+Las medidas de seguridad previstas en el artículo 118, podrán ser impuestas por la autoridad ejecutora facultada para ello, según lo dispuesto en el presente reglamento. (Esta adición fue aprobada en sesión extraordinaria del Ayuntamiento celebrada el 20 de marzo de 2019 y publicada el 25 de marzo en la Gaceta Municipal)
+Capítulo III
+De las sanciones y recursos.

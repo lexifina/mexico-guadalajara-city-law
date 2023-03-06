@@ -1,0 +1,2 @@
+Artículo 121 bis.- Tratándose de infracciones impuestas por incumplimiento a
+las disposiciones en materia de producción y comercialización de bolsas de plástico y popotes de un solo uso, así como lo dispuesto en la Norma 010/19, se otorgará al infractor un plazo de diez días naturales para subsanar la irregularidad. (Esta adición fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 24 de enero de 2020 y publicada el 04 de febrero de 2020 en la Gaceta Municipal)
