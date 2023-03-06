@@ -1,0 +1,3 @@
+REGLAMENTO DEL TIANGUIS CULTURAL DE GUADALAJARA
+Capítulo I
+Disposiciones Generales
