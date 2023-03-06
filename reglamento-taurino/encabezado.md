@@ -1,0 +1,4 @@
+1
+REGLAMENTO TAURINO DEL MUNICIPIO DE GUADALAJARA
+Capítulo I
+Disposiciones generales
