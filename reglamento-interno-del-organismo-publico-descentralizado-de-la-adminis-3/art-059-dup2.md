@@ -1,0 +1,3 @@
+Artículo 59. La Coordinación del Centro Integral para la Atención a las Violencias contra las Mujeres en Guadalajara, tiene como misión estructurar la política integral para garantizar el derecho de las mujeres a una vida libre de violencias en la atención brindada en la UNEA del instituto, a través de ésta se promoverá el ejercicio efectivo de los derechos humanos de las mujeres y las niñas, con mecanismos institucionales construidos desde la perspectiva de género para la prevención, atención, sanción y erradicación de las violencias contra las mujeres y las niñas.
+[ ... ]
+La Coordinación del Centro Integral para la Atención a las Violencias contra las Mujeres en Guadalajara realizará su trabajo de manera articulada con la Coordinación Jurídica del Instituto.
