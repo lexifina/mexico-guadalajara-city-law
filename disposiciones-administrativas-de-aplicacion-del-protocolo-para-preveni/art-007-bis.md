@@ -1,0 +1,2 @@
+Artículo 7 bis. Es obligación de todos y todas las servidoras y servidores públicos que ejerzan cargo de dirección o similar y que tengan personal a su cargo, dar a conocer las presentes disposiciones y los alcances de las mismas. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 26 de junio de 2023 y publicada el 4 de julio de 2023 en el Suplemento de la Gaceta Municipal.)
+Capítulo III De la Atención
