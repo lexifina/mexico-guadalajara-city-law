@@ -1,0 +1,2 @@
+Artículo 192 bis.
+1. El Comité de Protección a los Animales es un órgano de coordinación, participación y colaboración que tiene por objeto coadyuvar con la autoridad municipal en el debido cumplimiento de los principios y disposiciones contenidas en este ordenamiento, mediante el diseño de planes, programas y estrategias que fomenten en las personas el reconocimiento de la dignidad de los animales, así como la protección y seguridad durante su crianza, mantenimiento, explotación, transporte y sacrificio.
