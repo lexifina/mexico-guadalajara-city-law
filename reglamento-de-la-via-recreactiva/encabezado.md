@@ -1,0 +1,3 @@
+REGLAMENTO DE LA VÍA RECREACTIVA DE GUADALAJARA
+Capítulo I
+Disposiciones Generales
