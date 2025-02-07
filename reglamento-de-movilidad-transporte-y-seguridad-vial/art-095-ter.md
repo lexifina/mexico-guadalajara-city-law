@@ -1,0 +1,1 @@
+Artículo 95 ter. Las acciones de planeación e implementación de políticas y programas de movilidad y seguridad vial que lleve a cabo el municipio deben atender a los diferentes tipos de microvehículos.

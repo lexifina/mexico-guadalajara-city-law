@@ -1,0 +1,1 @@
+Artículo 95 bis. La micromovilidad es una modalidad de transporte mediante la cual se utilizan vehículos pequeños y ligeros, de propulsión humana o eléctricos, utilizados de forma individual o compartida, que operan usualmente a velocidades de menor de veinticinco kilómetros por hora y se destinan a viajes de hasta diez kilómetros.
