@@ -1,0 +1,3 @@
+Artículo 33 Bis. En los casos en que elementos de la Comisaría de Seguridad Ciudadana de Guadalajara en servicio presencien la comisión de una falta administrativa y por circunstancias ajenas a ellos no puedan lograr el arresto de la persona presunta infractora, llenarán el informe de policía, describiendo los hechos, con circunstancias de modo, tiempo y lugar, así como los datos de identificación de la persona presunta infractora que logren recabar, enviándolo por escrito al juzgado cívico para que proceda conforme corresponda. (Esta
+39
+reforma fue aprobada el sesión ordinaria del 27 de febrero del 2023 y publicada el 6 de marzo del 2023 en el Suplemento de la Gaceta Municipal de Guadalajara)
