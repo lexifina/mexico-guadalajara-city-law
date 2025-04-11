@@ -1,0 +1,7 @@
+REGLAMENTO DE PARTICIPACIÓN CIUDADANA Y PLANEACIÓN
+PARTICIPATIVA PARA LA GOBERNANZA DEL MUNICIPIO DE
+GUADALAJARA
+Título Primero
+Participación Ciudadana y Gobernanza
+Capítulo I
+Disposiciones Generales
