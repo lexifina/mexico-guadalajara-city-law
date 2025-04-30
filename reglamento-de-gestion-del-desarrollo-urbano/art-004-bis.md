@@ -1,0 +1,1 @@
+Artículo 4 Bis. Derogado. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 16 de diciembre de 2022, y publicada el 11 de enero de 2023 en el Suplemento de la Gaceta Municipal.)

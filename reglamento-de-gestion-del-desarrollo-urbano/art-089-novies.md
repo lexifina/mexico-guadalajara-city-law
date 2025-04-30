@@ -1,0 +1,2 @@
+Artículo 89 Novies.
+1. Previo a otorgar permisos para nuevas construcciones en áreas no urbanizadas, el solicitante deberá contar con la factibilidad de servicios hidráulicos, la cual se tramitará en el Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado u organismo operador competente. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 28 de febrero de 2018, y publicada el 28 de marzo de 2018 en el Suplemento de la Gaceta Municipal.)

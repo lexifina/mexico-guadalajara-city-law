@@ -1,0 +1,2 @@
+Artículo 89 Ter.
+La expedición de la licencia de construcción requiere del Visto Bueno de la Dirección de Resiliencia en los casos previstos en el artículo 190 del Reglamento para la Gestión Integral del Municipio de Guadalajara. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 28 de febrero de 2018, y publicada el 28 de marzo de 2018 en el Suplemento de la Gaceta Municipal.)

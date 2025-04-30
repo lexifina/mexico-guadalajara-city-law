@@ -1,0 +1,2 @@
+Artículo 149 Duodecies.
+1. Para autorizar la recepción de obras de urbanización para desarrollos el tiempo máximo de respuesta será de 1 mes y se requerirá lo establecido en los artículos 299 a 305 del Capítulo VI Título Noveno del Código Urbano para el Estado de Jalisco. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 28 de febrero de 2018, y publicada el 28 de marzo de 2018 en el Suplemento de la Gaceta Municipal.)

@@ -1,0 +1,2 @@
+Artículo 89 Octies.
+1. El Estudio de Impacto y Riesgo Ambiental, está normado en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente del Estado de Jalisco y demás disposiciones reglamentarias. El solicitante deberá obtener de la Dirección de Medio Ambiente la guía para la elaboración del Estudio de Impacto Ambiental. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 28 de febrero de 2018, y publicada el 28 de marzo de 2018 en el Suplemento de la Gaceta Municipal.)
