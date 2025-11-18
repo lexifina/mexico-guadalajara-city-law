@@ -1,0 +1,3 @@
+Articulo 18 Quater. El reconocimiento José Guizar Morfín, se otorga a la o él músico, compositor o intérprete de Guadalajara, que se haya distinguido por sus obras musicales, en las que se haga alusión a la cultura, la historia, los barrios o a las tradiciones típicas de Guadalajara.
+Esta distinción se otorga en noviembre, en conmemoración del Día del Músico.
+El desarrollo del procedimiento está a cargo de la Dirección de Cultura y consiste en la entrega de un diploma y de un estímulo económico de por lo menos mil sesenta veces el valor diario de la UMA. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 23 de julio de 2026 y publicada el 7 de agosto de 2026 en el Suplemento de la Gaceta Municipal).

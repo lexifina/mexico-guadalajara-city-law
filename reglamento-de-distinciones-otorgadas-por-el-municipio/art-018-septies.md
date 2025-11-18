@@ -1,0 +1,6 @@
+Artículo 18 Septies. El Reconocimiento Municipal Buena Vecina y Buen Vecino en Guadalajara, se otorgará a una persona vecina destacada que, con su esfuerzo y compromiso, promuevan la solidaridad, la cooperación y la cohesión comunitaria en cada una de las comunidades previstas en el artículo 22 ter del Reglamento de Participación Ciudadana y Planeación Participativa para la Gobernanza del Municipio de Guadalajara.
+Esta distinción inicia su proceso en el mes de agosto en el marco del Día Nacional de las y los Vecinos, y se otorga durante el mes de febrero con motivo de la fundación definitiva de Guadalajara.
+El desarrollo del procedimiento está a cargo de la dependencia en materia de participación ciudadana y consiste en la entrega de un diploma y una medalla a las ganadoras y los ganadores de cada una de las once comunidades del Municipio de Guadalajara. Adicionalmente se pueden entregar mediante diplomas las menciones honoríficas que considere la dependencia.
+Los nombres de las personas reconocidas con el título de Buena Vecina y Buen Vecino se integrarán a un registro histórico, constituyéndose en memoria institucional y social del municipio. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 23 de julio de 2026 y publicada el 7
+11
+de agosto de 2026 en el Suplemento de la Gaceta Municipal).
