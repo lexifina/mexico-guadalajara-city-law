@@ -1,0 +1,2 @@
+Artículo 23 Bis.
+1. Los giros identificados como estancias infantiles y como guarderías, para su operación y funcionamiento deben cumplir con las disposiciones contenidas en la Norma Oficial Mexicana NOM-032-SSA3-2010 y las demás disposiciones de orden municipal en materia de Protección Civil en la medida que les corresponda. (Reforma aprobada en sesión ordinaria del Ayuntamiento celebrada el 28 de abril de 2014 y publicada el 09 de mayo de 2014 en el Suplemento de la Gaceta Municipal.)

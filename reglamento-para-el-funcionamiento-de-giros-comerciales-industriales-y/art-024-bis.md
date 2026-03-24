@@ -1,0 +1,2 @@
+Artículo 24 bis.
+1. Casino o Casinos es el local ubicado en un bien inmueble en el que se llevan a cabo juegos con apuestas o sorteos de números con permiso vigente, otorgado por la Secretearía de Gobernación en los términos de la ley respectiva y/o con documento que acredite el derecho para la explotación de dicha actividad. A través de Salas de sorteos de números y/o máquinas electrónicas. (Adición fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 13 de enero de 2011 y publicada el 28 de enero de 2011 en el Suplemento de la Gaceta Municipal)

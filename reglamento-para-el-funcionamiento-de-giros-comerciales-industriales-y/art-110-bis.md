@@ -1,0 +1,2 @@
+Artículo 110 bis.
+1. Zona de Intervención Especial Centro Histórico: Es la zona de características socioculturales específicas y distintas que resultan de especial interés de protección para el municipio, por tratarse del área donde se ubica el patrimonio cultural e histórico de la ciudad, con una identidad y vocación barrial particular; y en las que tiene relevancia el reordenamiento del territorio y rescate del espacio público. (Adiciones aprobadas en sesión ordinaria celebrada el día 09 de noviembre de 2015 y publicado el 10 de noviembre de 2015.)

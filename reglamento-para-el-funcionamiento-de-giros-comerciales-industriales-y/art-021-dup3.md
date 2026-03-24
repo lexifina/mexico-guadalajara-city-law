@@ -1,0 +1,2 @@
+Artículo 21 undecies.
+Las responsabilidades y obligaciones que deben tener los propietarios, poseedores, terceras personas o encargados de la custodia de los perros dentro de los restaurantes identificados como amigables con los perros, se establecen en el Reglamento Sanitario de Control y Protección a los Animales para el Municipio de Guadalajara. (Adición aprobada en sesión ordinaria del Ayuntamiento celebrada el 25 de septiembre de 2024 y publicado el 25 de septiembre de 2024 en la Gaceta Municipal de Guadalajara).

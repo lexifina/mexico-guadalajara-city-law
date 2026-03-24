@@ -1,0 +1,2 @@
+Articulo 108 bis.
+1. Queda restringido el comercio en espacios abiertos y la prestación de servicios en los lugares denominados como Hitos Urbanos en el Reglamento de Anuncios para el Municipio de Guadalajara, con excepción de aquellos que cuenten con su reglamentación específica. (Esta adición fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 24 de marzo de 2026 y publicada el 24 de marzo de 2026 en el Suplemento Gaceta Municipal).

@@ -1,0 +1,2 @@
+Artículo 21 nonies.
+El titular o encargado del giro identificado como amigables con los perros tiene derecho a decidir sobre la permanencia en el lugar, de los usuarios y sus perros, cuando se presente una situación que altere el orden, la higiene y la seguridad. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 25 de septiembre de 2024 y publicado el 25 de septiembre de 2024 en la Gaceta Municipal de Guadalajara).

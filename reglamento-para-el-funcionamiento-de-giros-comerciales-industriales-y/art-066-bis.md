@@ -1,0 +1,2 @@
+Artículo 66 bis.
+1. En los giros donde se vendan o consuman bebidas con contenido alcohólico podrán además, expender en cualquier presentación, bebidas alcohólicas preparadas ya sea con una o varias bebidas alcohólicas entre sí o combinadas con frutas, verduras, bebidas no alcohólicas tales como agua, jugos, refrescos, salsas u otras. (Adición aprobada en sesión ordinaria del Ayuntamiento celebrada el día 22 de febrero del 2005 y publica el 28 de febrero del 2005 en el Suplemento de la Gaceta Municipal)

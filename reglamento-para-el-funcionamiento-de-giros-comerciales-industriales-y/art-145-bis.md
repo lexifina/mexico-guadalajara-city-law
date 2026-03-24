@@ -1,0 +1,1 @@
+Artículo 145 bis. El Gobierno Municipal, a través de su Contraloría Ciudadana, llevará a cabo la revisión y vigilancia del debido cumplimiento del artículo anterior. (Adición aprobada en sesión ordinaria celebrada el día 15 de diciembre de 2016 y publicada el 05 de enero de 2017 en el Suplemento de la Gaceta Municipal.)

@@ -1,0 +1,2 @@
+Artículo 21 ter.
+Los titulares de los giros identificados como restaurantes, pueden permitir el acceso de comensales que vayan acompañados de su perro, siempre y cuando cumplan con las condiciones y obligaciones que establecen los artículos 21 quater y 21 sexies. (Adición aprobada en sesión ordinaria del Ayuntamiento celebrada el 25 de septiembre de 2024 y publicado el 25 de septiembre de 2024 en la Gaceta Municipal de Guadalajara).

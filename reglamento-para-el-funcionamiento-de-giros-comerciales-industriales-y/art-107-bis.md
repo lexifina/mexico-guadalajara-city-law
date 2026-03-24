@@ -1,0 +1,2 @@
+Artículo 107 bis.
+1. El Presidente Municipal podrá proponer al Ayuntamiento el establecimiento de nuevas Zonas de Intervención Especial, ferias, bazares, corredores culturales y gastronómicos, Hitos Urbanos, así como políticas específicas para las mismas. (Esta reforma fue aprobada en sesión ordinaria del Ayuntamiento celebrada el 24 de marzo de 2026 y publicada el 24 de marzo de 2026 en el Suplemento de la Gaceta Municipal).

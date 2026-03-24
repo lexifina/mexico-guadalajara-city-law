@@ -1,0 +1,2 @@
+Artículo 101 bis.
+1. Las dependencias del Gobierno Municipal, en el ámbito de sus competencias cuentan con la facultad de efectuar revisiones a los comercios establecidos en espacios abiertos, así como realizar la clausura preventiva de los mismos, según los procedimientos de inspección establecidos. (Esta reforma fue aprobada en sesión extraordinaria del Ayuntamiento celebrada el 19 de febrero de 2016 y publicada el 22 de febrero de 2016 en el Suplemento de la Gaceta Municipal)
