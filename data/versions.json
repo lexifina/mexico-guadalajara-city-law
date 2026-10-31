@@ -1,0 +1,1419 @@
+{
+ "country": "MX-JAL-GUADALAJARA",
+ "acts": [
+  {
+   "slug": "reglamento-de-justicia-civica",
+   "short": "Reglamento de Justicia Cívica del Municipio de Guadalajara",
+   "title": "Reglamento de Justicia Cívica del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 90,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.JusticiaCivicaGuadalajara.pdf",
+     "sha256": "7d5c47e6b745bcefd821b26ee261dfc9306cdf34a3ad022f5b3e2fa02baf2ca7"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-gobierno",
+   "short": "Código de Gobierno del Municipio de Guadalajara",
+   "title": "Código de Gobierno del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 359,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/CodigoGobiernoMunicipioGuadalajara.pdf",
+     "sha256": "b134b3ee64a56befbf151771786b5a8e4d7cba058d9cc195b10508271588c444"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-organico",
+   "short": "Reglamento Orgánico del Municipio de Guadalajara",
+   "title": "Reglamento Orgánico del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 503,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/R_Organico_0.pdf",
+     "sha256": "0855498307cadfa2b7a11df33e6405f35771fd8002d07cbc7e771b9a64fe4293"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-administracion-publica-municipal",
+   "short": "Reglamento de la Administración Pública Municipal de Guadalajara",
+   "title": "Reglamento de la Administración Pública Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 269,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.adminpublicaguad_0.pdf",
+     "sha256": "e74b4fab514b4bf1acc8cff812fc7469d42077e7f2798f9828ad24d2a9dc9fb7"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-municipal-de-senderos-seguros",
+   "short": "Reglamento del Consejo Municipal de Senderos Seguros del Municipio de Guadalajar",
+   "title": "Reglamento del Consejo Municipal de Senderos Seguros del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 32,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoConsejoMunicipalSenderosSegurosMunicipioGuadalajara.pdf",
+     "sha256": "3004d29f77b64e1cd2155cd2c9f8e9a3e3524e9d34e240cad9f3a7c9afb4967f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-integral-de-cuidados",
+   "short": "Reglamento del Sistema Integral de Cuidados del Municipio de Guadalajara",
+   "title": "Reglamento del Sistema Integral de Cuidados del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 47,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoSistemaIntegralCuidadosMunicipioGuadalajara.pdf",
+     "sha256": "4d2ba6c6143c4db85946615ac1a14c04bd2d5ec4b7fecb60dc97d149a1b26f0f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-anuncios",
+   "short": "Reglamento de Anuncios para el Municipio de Guadalajara",
+   "title": "Reglamento de Anuncios para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 102,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.AnunciosGdl_0.pdf",
+     "sha256": "366d2e7dba58f0d111bf4ad375e02ca4a6e6d9d5a677b3ca6d057a0a78b29ec3"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-el-funcionamiento-de-giros-comerciales-industriales-y",
+   "short": "Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Presta",
+   "title": "Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 233,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.funcionamientogiroscomercialesindustrialesprestacionserviciosguadalajara.pdf",
+     "sha256": "df2ff4d45bbbcf3680e3a2e4b7804c3d0b12e85ea030c36f1fb75b76953bece6"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interno-y-de-carrera-policial-de-la-comisaria-de-seguridad",
+   "short": "Reglamento Interno y de Carrera Policial de la Comisaría de Seguridad Ciudadana ",
+   "title": "Reglamento Interno y de Carrera Policial de la Comisaría de Seguridad Ciudadana de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 207,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoInternoCarreraPolicialComisariaPoliciaGuadalajara.pdf",
+     "sha256": "236b83becb2f05d0b29b6495661768270eb8265139aa7f0dc75ac457123e2b6f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-distinciones-otorgadas-por-el-municipio",
+   "short": "Reglamento de Distinciones Otorgadas por el Municipio de Guadalajara",
+   "title": "Reglamento de Distinciones Otorgadas por el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 37,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoDistincionesOtorgadasMunicipioGuadalajara.pdf",
+     "sha256": "0b25b1255c08a9d90345e39fdc216381815188ead3c90fe32d28953f86c65ce2"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-prevenir-atender-y-erradicar-toda-forma-de-discriminac",
+   "short": "Reglamento para Prevenir, Atender y Erradicar toda forma de Discriminación en el",
+   "title": "Reglamento para Prevenir, Atender y Erradicar toda forma de Discriminación en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 46,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.PrevenirAtenderErradicarDiscriminacionGuadalajara.pdf",
+     "sha256": "bb3c18c2b1f5af3c1e781a9f8133a4a20ecb34037ab8fe931c014ed81ed3e3b5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-comite-municipal-de-salud",
+   "short": "Reglamento del Comité Municipal de Salud de Guadalajara",
+   "title": "Reglamento del Comité Municipal de Salud de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 22,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoComiteMunicipalSaludGuadalajara.pdf",
+     "sha256": "381d7c470fa696c68f3f62b1660ffc4420ca7a101fced2c350d2ebe5f3d9c9cb"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-participacion-social-en-la-educacion",
+   "short": "Reglamento del Consejo de Participación Social en la Educación para el Municipio",
+   "title": "Reglamento del Consejo de Participación Social en la Educación para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 34,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoParticipacionSocialEducacionGuadalajara.pdf",
+     "sha256": "e73e9c003bd45e28f7a281b9c6ccaba278d281d38c65e1800b69fe7b37f0d7f5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-mercados-y-centrales-de-abasto",
+   "short": "Reglamento de Mercados y Centrales de Abasto del Municipio de Guadalajara",
+   "title": "Reglamento de Mercados y Centrales de Abasto del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 40,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.MercadoCentralesAbastoGuadalajara.pdf",
+     "sha256": "d3f5e41f82058e98fd49e40d2270d5d2aab5a2c945f08ae03317dfdfca4a7681"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-presupuesto-y-ejercicio-del-gasto-publico",
+   "short": "Reglamento de Presupuesto y Ejercicio del Gasto Público para el Municipio de Gua",
+   "title": "Reglamento de Presupuesto y Ejercicio del Gasto Público para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 142,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reglamentopresupuestoejerciciogastopublico_0.pdf",
+     "sha256": "5aec3ec115d4902e06345bec03d5728e4ae160dca7a8243fd5da8e28f15c1240"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-acto-y-del-procedimiento-administrativo",
+   "short": "Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalaj",
+   "title": "Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 65,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ActoProcedimientoAdministrativoGuadalajara.pdf",
+     "sha256": "4513b01b5aa3d07949f4e4ffda2e656f4447a758f06c7243cc603e091112e61f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interno-del-organismo-publico-descentralizado-de-la-adminis",
+   "short": "Reglamento Interno del Organismo Público Descentralizado de la Administración Pú",
+   "title": "Reglamento Interno del Organismo Público Descentralizado de la Administración Pública Municipal denominado “Consejo de Colaboración Municipal” de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 49,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoConsejoColaboracionMunicipalGuadalajara.pdf",
+     "sha256": "e8d58a9ddf8521622f9eeb1890fa33a25bea76a0eb9d2d31b468043864189aaf"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-gestion-del-desarrollo-urbano",
+   "short": "Reglamento de Gestión del Desarrollo Urbano para el Municipio de Guadalajara",
+   "title": "Reglamento de Gestión del Desarrollo Urbano para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 204,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.GestionDesarrolloUrbanoGuadalajara.pdf",
+     "sha256": "42fa8eafbbb4a396786cff668d054c588c9d7bd17edcdbdd738bd91e6a5202a8"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-participacion-ciudadana-y-planeacion-participativa-para",
+   "short": "Reglamento de Participación Ciudadana y Planeación Participativa para la Goberna",
+   "title": "Reglamento de Participación Ciudadana y Planeación Participativa para la Gobernanza del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 138,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/RegParticipacionCiudadanaPlaneacionParticipativaGDL.pdf",
+     "sha256": "ec4c2264c41aaff1da93206086c6ffc465e6f1e6e1f60629a10e951bd73fb9b2"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-transparencia-y-acceso-a-la-informacion-publica",
+   "short": "Reglamento de Transparencia y Acceso a la Información Pública del Municipio de G",
+   "title": "Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 49,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoTransparenciaAccesoInformacionGuadalajara.pdf",
+     "sha256": "411ebd135b52faf6d9500de42e60499032affe863ea98374aebb536b10a8d78f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-ciudadano-en-materia-de-seguridad",
+   "short": "Reglamento del Consejo Ciudadano en materia de Seguridad del Municipio de Guadal",
+   "title": "Reglamento del Consejo Ciudadano en materia de Seguridad del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 28,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoConsejoCiudadanoMateriaSeguridadMunicipioGuadalajara.pdf",
+     "sha256": "cfd66b3c5c122405a10de145245b9ee5c1c86b05d61606894cb16f01e9217914"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-de-las-organizaciones-de-la-sociedad",
+   "short": "Reglamento del Consejo Consultivo de las Organizaciones de la Sociedad Civil par",
+   "title": "Reglamento del Consejo Consultivo de las Organizaciones de la Sociedad Civil para el Desarrollo Humano en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 28,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoConsultivoOrganizacionesSociedadCivilDesarrolloHumanoGuadalajara_0.pdf",
+     "sha256": "fa87abec7d3aadabb29eea62892de2f52ffc34444954f3397b03361303f90d73"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-para-el-fomento-de-la-cultura-ambien",
+   "short": "Reglamento del Consejo Consultivo para el Fomento de la Cultura Ambiental y el D",
+   "title": "Reglamento del Consejo Consultivo para el Fomento de la Cultura Ambiental y el Desarrollo Sustentable del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 29,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoConsultivoFomentoCulturalAmbientalDesarrolloSustentable.pdf",
+     "sha256": "c2f74776e81518aa591170f2b339f7a0ecb0b9c10395b3963181cba57302f004"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-para-la-atencion-e-inclusion-de-las",
+   "short": "Reglamento del Consejo Consultivo para la Atención e Inclusión de las Personas c",
+   "title": "Reglamento del Consejo Consultivo para la Atención e Inclusión de las Personas con Discapacidad del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 27,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoConsultivoAtencionInclusionPersonasDiscapacidadGdl.pdf",
+     "sha256": "682b770ce96b7c6a56d60f5517060361bd4434a9275b39404d19c9d98f7de015"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-municipal-de-proteccion-integral-de-ninas-ninos",
+   "short": "Reglamento del Sistema Municipal de Protección Integral de Niñas, Niños y Adoles",
+   "title": "Reglamento del Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 28,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.SistemaMunicipalProteccionIntegralNinasNinosAdolescentesGuadalajara.pdf",
+     "sha256": "bea99e51a28ee587a3b2a4765d21a4d54adcccb27795641b1d10ab40ac61acbf"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-el-servicio-publico-de-educacion-municipal",
+   "short": "Reglamento para el Servicio Público de Educación Municipal de Guadalajara",
+   "title": "Reglamento para el Servicio Público de Educación Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 42,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.serviciopublicoeducacionmunicipalguadalajara.pdf",
+     "sha256": "a33923c4ddc41cb309805a46a897962b1409631b014612528486ed28e140eb71"
+    }
+   ]
+  },
+  {
+   "slug": "lineamientos-de-pago-unico-por-concepto-de-incapacidad-total-permanent",
+   "short": "Lineamientos de pago único por concepto de incapacidad total permanente o muerte",
+   "title": "Lineamientos de pago único por concepto de incapacidad total permanente o muerte de las personas servidoras públicas del Gobierno Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 25,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/LineamientosIncapacidadMuerteServidorasPublicasGuadalajara.pdf",
+     "sha256": "a1f1e82a8bfb553ccae24b46e1330c2b22fd5976999581c33d46508a01cce0b1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia",
+   "short": "Reglamento de Acceso de las Mujeres a una Vida Libre de Violencia para el Munici",
+   "title": "Reglamento de Acceso de las Mujeres a una Vida Libre de Violencia para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 54,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.AccesoMujeresVidaLibreViolenciaGDL.pdf",
+     "sha256": "c24d131a603b4f7e1f80c7db01e74e847fea413c642259da4b709119efef8091"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-movilidad-transporte-y-seguridad-vial",
+   "short": "Reglamento de Movilidad, Transporte y Seguridad Vial de Guadalajara",
+   "title": "Reglamento de Movilidad, Transporte y Seguridad Vial de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 181,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/RegMovilidadTransporteSeguridadVialGuadalajara.pdf",
+     "sha256": "12e851381e8c0cc072078ed14c80ce3dcfe0d931f93138e16501ef2dfd30ec92"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-de-aplicacion-general-que-regulan-el-ord",
+   "short": "Disposiciones Administrativas de Aplicación General que Regulan el Ordenamiento ",
+   "title": "Disposiciones Administrativas de Aplicación General que Regulan el Ordenamiento Territorial del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 17,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/DisposicionesOrdenamientoTerritorialGuadalajara.pdf",
+     "sha256": "2133608f97942663a3547fdf2855172c5bf320081ed7970bf1ead9b0522de2f8"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-gestion-integral-de-riesgos-proteccion-civil-y-bomberos",
+   "short": "Reglamento de Gestión Integral de Riesgos, Protección Civil y Bomberos para el M",
+   "title": "Reglamento de Gestión Integral de Riesgos, Protección Civil y Bomberos para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 112,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoGestionIntegralRiesgosProteccionCivilBomberosGdl.pdf",
+     "sha256": "0696fd75e3ccb80c53d78ad06c101af9ef891f08766f23ea4d3ed54e13a929aa"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-via-recreactiva",
+   "short": "Reglamento de la Vía RecreActiva",
+   "title": "Reglamento de la Vía RecreActiva",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 35,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoViaRecreactivaGdl.pdf",
+     "sha256": "c7d67f4661870b76091fee900607a10f0f45f27d845987aaa6cbf5c357200cc4"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-regularizacion-y-titulacion-de-predios-urbanos",
+   "short": "Reglamento de Regularización y Titulación de Predios Urbanos del Municipio de Gu",
+   "title": "Reglamento de Regularización y Titulación de Predios Urbanos del Municipio de Guadalajara Jalisco",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 41,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.RegularizacionTitulacionPrediosUrbanosGuadalajara.pdf",
+     "sha256": "036a003faf677b8f7be262864495baf0c0bd6fbc09af69d946f29f3c7794d3ac"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-sanitario-de-control-y-proteccion-a-los-animales",
+   "short": "Reglamento Sanitario de Control y Protección a los Animales para el Municipio de",
+   "title": "Reglamento Sanitario de Control y Protección a los Animales para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 274,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.sanitariocontrolproteccionanimalesmunicipiogdl.pdf",
+     "sha256": "62f5232af8867748cd8443a51209735bc37305dee244e66973491c0103db758e"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-patrimonio",
+   "short": "Reglamento de Patrimonio del Municipio de Guadalajara",
+   "title": "Reglamento de Patrimonio del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 98,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.patrimonioguadalajara.pdf",
+     "sha256": "3b782c5a991698c0141881b0ed800945b00a3801788f9b4d6ec08adbc5e65e7e"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-etica-del-gobierno-municipal",
+   "short": "Código de Ética del Gobierno Municipal de Guadalajara",
+   "title": "Código de Ética del Gobierno Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 14,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/CodigoEticaGobiernoMunicipalGuadalajara.pdf",
+     "sha256": "1371c35a3923d71cc11626a891cfef558c46f31510d8f077ca9242399ab0035f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-imagen-urbana",
+   "short": "Reglamento de Imagen Urbana para el Municipio de Guadalajara",
+   "title": "Reglamento de Imagen Urbana para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 42,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ImagenUrbanaGuadalajara.pdf",
+     "sha256": "ed425384ec3d02754ce66276a759c27fd750d33ad5a7deb60261b80e71e38f2a"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-nomenclatura",
+   "short": "Reglamento de Nomenclatura del Municipio de Guadalajara",
+   "title": "Reglamento de Nomenclatura del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-11-30",
+     "units": 22,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.NomenclaturaMunicipioGuadalajara.pdf",
+     "sha256": "344aa5db700dd590afdac85b3e30a153afb5468511f65ba7417e5a069d85710b"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-areas-verdes-y-recursos-forestales",
+   "short": "Reglamento de Áreas Verdes y Recursos Forestales del Municipio de Guadalajara",
+   "title": "Reglamento de Áreas Verdes y Recursos Forestales del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 116,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.AreasVerdesRecursosForestalesGuadalajara.pdf",
+     "sha256": "68fe71102674cbd4defc9081079d83a189e8d3f15ccb373f230caff9e0477299"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-igualdad-sustantiva-entre-mujeres-y-hombres-en-el-m",
+   "short": "Reglamento para la Igualdad Sustantiva entre Mujeres y Hombres en el Municipio d",
+   "title": "Reglamento para la Igualdad Sustantiva entre Mujeres y Hombres en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 65,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.IgualdadSustantivaMujeresHombresGuadalajara.pdf",
+     "sha256": "43b432d0cdcf12993882d9b11b97c74c76dad744a2561860137a0f5766a75ba4"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-ciudades-hermanas-y-acuerdos-de-cooperacion",
+   "short": "Reglamento de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guada",
+   "title": "Reglamento de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 34,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.CiudadesHermanasAcuerdosCooperacionGuadalajara.pdf",
+     "sha256": "4702282202ea99cb7ebb095332b5b0a033ea995e2d3040450788a0da1c55dbd1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-para-la-cultura-y-las-artes-en-el-municipio",
+   "short": "Reglamento del Consejo para la Cultura y las Artes en el Municipio de Guadalajar",
+   "title": "Reglamento del Consejo para la Cultura y las Artes en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 30,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.consejoculturaartesguadalajara.pdf",
+     "sha256": "1a1f2ef3daa9228279104328413bdc48496db613fc90b6d96578f787d2145add"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-de-aplicacion-del-protocolo-para-preveni",
+   "short": "Disposiciones Administrativas de Aplicación del Protocolo para Prevenir y Atende",
+   "title": "Disposiciones Administrativas de Aplicación del Protocolo para Prevenir y Atender el Hostigamiento y Acoso Sexual en las Dependencias y Entidades de la Administración Pública Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 13,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/DisposicionesAdminPrevenirHostigamientoAcosoSexualGuadalajara.pdf",
+     "sha256": "45d674151e1e7e721413b05202cb985cd6591eef62bbd555e26ae54ce1bda31f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-promocion-economica",
+   "short": "Reglamento del Consejo de Promoción Económica del Municipio de Guadalajara",
+   "title": "Reglamento del Consejo de Promoción Económica del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 28,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoPromocionEconomicaGuadalajara.pdf",
+     "sha256": "db321e5f8a50989d1e25b76e88c68a1dc9204e77116531d434de350c569d74b5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-prevencion-y-gestion-integral-de-los-residuos",
+   "short": "Reglamento para la Prevención y Gestión Integral de los Residuos del Municipio d",
+   "title": "Reglamento para la Prevención y Gestión Integral de los Residuos del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 119,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.PrevencionGestionIntegralResiduosGuadalajara.pdf",
+     "sha256": "87d60977daffee95fd60bec8527b4d2fe5b37a57efb99a3b4688c27db449ea5c"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interno-del-organismo-publico-descentralizado-de-la-adminis-3",
+   "short": "Reglamento Interno del Organismo Público Descentralizado de la Administración Pú",
+   "title": "Reglamento Interno del Organismo Público Descentralizado de la Administración Pública Municipal Instituto Municipal de las Mujeres de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 87,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/Reg.InstitutoMunicipalMujeresGuadalajara.pdf",
+     "sha256": "e92967e716168d0e7891c3493b10d5d5af268cba5eb0968db375ddf7cccbe265"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-de-aplicacion-del-protocolo-de-seguridad",
+   "short": "Disposiciones Administrativas de Aplicación del Protocolo de Seguridad en los Es",
+   "title": "Disposiciones Administrativas de Aplicación del Protocolo de Seguridad en los Espectáculos de Futbol celebrados en el Estadio Jalisco del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 18,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Disp.AdminEspectaculosFutbolEstadioJaliscoGuadalajara.pdf",
+     "sha256": "574dea6be72b1459629736e70b07deb1676feaba1c1388af3b290870ac0eed49"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-para-la-ejecucion-del-plan-de-ayudas-esc",
+   "short": "Disposiciones Administrativas para la Ejecución del Plan de Ayudas Escolares del",
+   "title": "Disposiciones Administrativas para la Ejecución del Plan de Ayudas Escolares del Personal de Alto Riesgo al Servicio del Ayuntamiento de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 41,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.EjecucionPlanAyudasEscolaresPersonalAltoRiesgoServicioGdl.pdf",
+     "sha256": "7868e2cc8a57d968496dc3dcacd5d4346dc58d08e9118d46167bb4035ffcefdf"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-austeridad",
+   "short": "Reglamento de Austeridad para el Municipio de Guadalajara",
+   "title": "Reglamento de Austeridad para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 24,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.AusteridadGuadalajara.pdf",
+     "sha256": "5e805327e3cba16c51e6d4e68827a6d729dd77e2067d07991d00ad2088223e4f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-corredores-gastronomicos-culturales-y-artisticos",
+   "short": "Reglamento de Corredores Gastronómicos, Culturales y Artísticos del Municipio de",
+   "title": "Reglamento de Corredores Gastronómicos, Culturales y Artísticos del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 27,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/RegCorredoresGastronomicosCulturalesGuadalajara.pdf",
+     "sha256": "dd6b58b2c9f8dcbf64a7b14c4fe6c5240340a867939cf3a8ae6770b7a482f00f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-metodos-alternos-de-solucion-de-conflictos",
+   "short": "Reglamento de Métodos Alternos de Solución de Conflictos del Municipio de Guadal",
+   "title": "Reglamento de Métodos Alternos de Solución de Conflictos del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 50,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.metodosalternos.pdf",
+     "sha256": "35e2bc2a2c8c03ad0a548a0698f1ad919a78956f12ccc6f0c8290dde4db7f8f6"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-turismo",
+   "short": "Reglamento de Turismo del Municipio de Guadalajara",
+   "title": "Reglamento de Turismo del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 21,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.TurismoGuadalajara.pdf",
+     "sha256": "51ef3e72e9eda8853d734265be0cc4dcd3b37e99a761dc5b1d2468ab184ff3d7"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-del-programa-d-a-r-e-del-ayuntamient",
+   "short": "Reglamento del Consejo Consultivo del Programa D.A.R.E. del Ayuntamiento de Guad",
+   "title": "Reglamento del Consejo Consultivo del Programa D.A.R.E. del Ayuntamiento de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 21,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoConsultivoProgramaD.A.R.E..pdf",
+     "sha256": "fb48fda0c853392eac592551a6b3f140e45d2d10fc8659e75651975f0d9e1567"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-maraton-y-medio-maraton-internacional",
+   "short": "Reglamento del Maratón y Medio Maratón Internacional de Guadalajara",
+   "title": "Reglamento del Maratón y Medio Maratón Internacional de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 23,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/RegMaratonMedioMaratonInternacionalGuadalajara.pdf",
+     "sha256": "b7ffef91c7cf122377670ec870eddf9689163aa3a6d84c1ef9bd3a5125c9d503"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-servicio-civil-de-carrera-en-la-administracion-publica",
+   "short": "Reglamento del Servicio Civil de Carrera en la Administración Pública Municipal ",
+   "title": "Reglamento del Servicio Civil de Carrera en la Administración Pública Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 75,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ServicioCivilCarreraAdministracionPublicaGuadalajara.pdf",
+     "sha256": "87124a097f747c5bdff973274142dc2746740d3e9263f0eddbc44ba9c5703489"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-tianguis-cultural",
+   "short": "Reglamento del Tianguis Cultural de Guadalajara",
+   "title": "Reglamento del Tianguis Cultural de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 41,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.TianguisCulturalGuadalajara.pdf",
+     "sha256": "46bd7dc7560ce6f461603b220abbd7689a2e285b964d8c30b221e60187f453ad"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-prevencion-de-la-violencia-en-los-espectaculos-masi",
+   "short": "Reglamento para la Prevención de la Violencia en los Espectáculos Masivos en el ",
+   "title": "Reglamento para la Prevención de la Violencia en los Espectáculos Masivos en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 24,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.PrevencionViolenciaEspectaculosGuadalajara.pdf",
+     "sha256": "e1cf7ab4bbfc1783e7dcba46788b0835f77c6e95a41698108b643afe64c687fb"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-proteccion-del-medio-ambiente-y-cambio-climatico-en",
+   "short": "Reglamento para la Protección del Medio Ambiente y Cambio Climático en el Munici",
+   "title": "Reglamento para la Protección del Medio Ambiente y Cambio Climático en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 148,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.proteccionmedioambienteecologiaguadalajara_0.pdf",
+     "sha256": "7b676f1d55bfc2de289013f5bee0cef117379dba3af17fa4dd0d0c09b4419ff6"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-los-espectaculos",
+   "short": "Reglamento para los Espectáculos del Municipio de Guadalajara",
+   "title": "Reglamento para los Espectáculos del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 529,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.espectaculosgdl_0.pdf",
+     "sha256": "04e580341b1a68043104546c6df10a80cc21e2b9ee510f135d01aba9629b57f2"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-vigilar-la-actuacion-de-los-elementos-operativos-de-la",
+   "short": "Reglamento para Vigilar la Actuación de los Elementos Operativos de la Comisaría",
+   "title": "Reglamento para Vigilar la Actuación de los Elementos Operativos de la Comisaría de la Policía de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 51,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.VigilarActuacionElementosOperativosComisariaGuadalajara.pdf",
+     "sha256": "84acfc0e81bbf66497ef07e8cb14342dc4ebf36a4fc2e3b22a11da1ff6593c75"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-taurino",
+   "short": "Reglamento Taurino del Municipio de Guadalajara",
+   "title": "Reglamento Taurino del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 154,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.TaurinoGdl.pdf",
+     "sha256": "6c9e1904376e794f5e66696e69fe0afd38f070a46efaee4ebc668e9521cff9db"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-contratacion-y-ejecucion-de-la-obra-publica-y-servicios",
+   "short": "Reglamento de Contratación y Ejecución de la Obra Pública y Servicios relacionad",
+   "title": "Reglamento de Contratación y Ejecución de la Obra Pública y Servicios relacionados con la misma del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 67,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ContatacionEjecucionObraPublicaServiciosGuadalajara.pdf",
+     "sha256": "0b067527c228f91801dade6f4c040cf6f21198a4af4c5a86b9c6657a1b58c4d4"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-atencion-de-personas-con-discapacidad-en-el-municip",
+   "short": "Reglamento para la Atención de Personas con Discapacidad en el Municipio de Guad",
+   "title": "Reglamento para la Atención de Personas con Discapacidad en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 51,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.atencionpersonasdiscapacidadguadalajara.pdf",
+     "sha256": "04f46d3957ec067c59bfd7aedfe33818795b2e511c2fa94e4af7d8197bce7c43"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-estructuras-para-sistemas-de-telecomunicaciones",
+   "short": "Reglamento de Estructuras para Sistemas de Telecomunicaciones del Municipio de G",
+   "title": "Reglamento de Estructuras para Sistemas de Telecomunicaciones del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 30,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.EstructurasSistemasTelecomunicacionesGuadalajara.pdf",
+     "sha256": "7c56872800ad94ddf94543b679c77d39902678a30169c69208b048f1cf9f2283"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-anticorrupcion",
+   "short": "Reglamento del Sistema Anticorrupción del Municipio de Guadalajara",
+   "title": "Reglamento del Sistema Anticorrupción del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 26,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoSistemaAnticorrupcionGuadalajara.pdf",
+     "sha256": "bf74202a317e9ee63d097bdccf8ac59d03bc4cc0717426f33e78e31517ce716a"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-zona-denominada-como-centro-historico-barrios-y-zon",
+   "short": "Reglamento para la Zona Denominada como Centro Histórico, Barrios y Zonas Tradic",
+   "title": "Reglamento para la Zona Denominada como Centro Histórico, Barrios y Zonas Tradicionales de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 98,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ZonaCentroHistoricoBarriosZonasGuadalajara.pdf",
+     "sha256": "cccf28f0efbc25c12db79d304ab7c202077a7ca5b1d82e8702f9564a4ee9e701"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-panteones",
+   "short": "Reglamento de Panteones para el Municipio de Guadalajara",
+   "title": "Reglamento de Panteones para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 80,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.panteonesguadalajara_0.pdf",
+     "sha256": "5e4bd3e4d32b57bc994ff9d2bd26fe7eb1d186b805a8bcbf82f7fd4c18e67f98"
+    }
+   ]
+  },
+  {
+   "slug": "protocolo-de-atencion-del-centro-de-convivencia-familiar-del-organismo",
+   "short": "Protocolo de Atención del Centro de Convivencia Familiar del Organismo Público D",
+   "title": "Protocolo de Atención del Centro de Convivencia Familiar del Organismo Público Descentralizado de la Administración Pública Municipal denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 62,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ProtocoloAtencionCentroConvivenciaFamiliarDIF.pdf",
+     "sha256": "b30218990955ba2f763b9f308667b1a884a3c44b2a61da4e97978579632d0494"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-escolar-para-padres-y-madres-de-familia-de-los-centros-de-d",
+   "short": "Reglamento Escolar para Padres y Madres de Familia de los Centros de Desarrollo ",
+   "title": "Reglamento Escolar para Padres y Madres de Familia de los Centros de Desarrollo Comunitario y Centros de Atención Infantil Comunitaria del Organismo Público Descentralizado de la Administración Pública Municipal denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 44,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoEscolarPadresMadresFamiliaDIF.pdf",
+     "sha256": "88069a47deddfe5500aa249ebc382eb7ea98abbcd4c010f9c06bef3f1f7eb0e1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-padres-madres-y-o-tutores-del-servicio-de-los-centros",
+   "short": "Reglamento para Padres, Madres y/o Tutores del Servicio de los Centros de Desarr",
+   "title": "Reglamento para Padres, Madres y/o Tutores del Servicio de los Centros de Desarrollo Infantil del Organismo Público Descentralizado de la Administración Pública Municipal denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 25,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoPadresMadresCentrosDesarrolloInfantilDIF.pdf",
+     "sha256": "92e37fe780966b0b56c3cf4a2dd9a567aaea942eef844fcce9984326ea0b80a5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-centro-de-convivencia-familiar-del-organismo-publico-de",
+   "short": "Reglamento del Centro de Convivencia Familiar del Organismo Público Descentraliz",
+   "title": "Reglamento del Centro de Convivencia Familiar del Organismo Público Descentralizado de la Administración Pública Municipal, denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 85,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.CentroConvivenciaDIF.pdf",
+     "sha256": "2f0102d53fa9c39fbe5c92d3e708469dee89946f2940c6fad6f7ef4845ffd27e"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-rastro-en-el-municipio",
+   "short": "Reglamento de Rastro en el Municipio de Guadalajara",
+   "title": "Reglamento de Rastro en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 141,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.rastroguadalajara.pdf",
+     "sha256": "ad2efb45236edef32b6b7506fe0fcecd019cdd3061274c1ed1f6aefc31289c05"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interno-del-organismo-publlco-descentralizado-de-la-adminis",
+   "short": "Reglamento Interno del Organismo Públlco Descentralizado de la Administración Pú",
+   "title": "Reglamento Interno del Organismo Públlco Descentralizado de la Administración Pública Municipal denominado \"Consejo Social de Cooperación para el Desarrollo Urbano\" de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 45,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoSocialCooperacionDesarrolloUrbano.pdf",
+     "sha256": "4277a9650d06f618a29c15da554d5e4d3bd4767c343395dd156a5b59032dba2b"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-adquisiciones-enajenaciones-arrendamientos-y-contratacio",
+   "short": "Reglamento de Adquisiciones, Enajenaciones, Arrendamientos y Contrataciones para",
+   "title": "Reglamento de Adquisiciones, Enajenaciones, Arrendamientos y Contrataciones para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 91,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoAdquisicionesEnajenacionesArrendamientosContratacionesGuadalajara.pdf",
+     "sha256": "fe69d297d2eaa08d18ace2b71bf9c9ba4185b5459972e674a7bc0ba3ff9942a0"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-edificio-general-ramon-corona",
+   "short": "Reglamento del Edificio \"General Ramón Corona\" del Municipio de Guadalajara",
+   "title": "Reglamento del Edificio \"General Ramón Corona\" del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 61,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.EdificioGeneralRamonCoronaGuadalajara.pdf",
+     "sha256": "06e784948991e4539bdcb07cd793610e042717775121597632c4b500ac84de0d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-giros-restringidos",
+   "short": "Reglamento del Consejo de Giros Restringidos del Municipio de Guadalajara",
+   "title": "Reglamento del Consejo de Giros Restringidos del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-09-02",
+     "units": 18,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoGirosRestringidosGuadalajara_0.pdf",
+     "sha256": "40f16be5e7c1e8ea5920fa2e9ca1c73e9e5860ca9ef1f4aff932af0b71f2320a"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-proyectos-de-inversion-y-de-prestacion-de-servicios",
+   "short": "Reglamento de Proyectos de Inversión y de Prestación de Servicios del Municipio ",
+   "title": "Reglamento de Proyectos de Inversión y de Prestación de Servicios del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 93,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ProyectosInversionPrestacionServiciosGdl.pdf",
+     "sha256": "76a448fd77e7722ed7daf43745606d22a388e718b9d1c1d390bcad710209e6df"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-entrega-recepcion-de-la-administracion-publica-muni",
+   "short": "Reglamento para la Entrega-Recepción de la Administración Pública Municipal de G",
+   "title": "Reglamento para la Entrega-Recepción de la Administración Pública Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 32,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoEntregaRecepcionAdministracionPublicaGuadalajara.pdf",
+     "sha256": "947d6617bf67f5a0371b0fdd82ea199c40dd0cf0d46de2e66c21a29e352f15d7"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-mejora-regulatoria-y-gobierno-digital",
+   "short": "Reglamento de Mejora Regulatoria y Gobierno Digital para el Municipio de Guadala",
+   "title": "Reglamento de Mejora Regulatoria y Gobierno Digital para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 89,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoMejoraRegulatoriaGobiernoDigitalGuadalajara.pdf",
+     "sha256": "ea07ffaa2b3d377d72928596f4cad942580bf2b87b8ad1a07ee35471c27871f2"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-de-aplicacion-general-que-regulan-los-me",
+   "short": "Disposiciones Administrativas de Aplicación General que Regulan los Mecanismos d",
+   "title": "Disposiciones Administrativas de Aplicación General que Regulan los Mecanismos de Compensación, Indemnización y Mitigación por Acciones Urbanísticas en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 26,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/DisposicionesAdminRegulanMecanismosCompensacionIndemnizacionAccionesUrbanisticasGdl.pdf",
+     "sha256": "d74e4855f9935e632b788b998d313923918dbeaa380562e9defc0c8a13b9dff6"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-para-la-regulacion-del-comercio-en-espac",
+   "short": "Disposiciones Administrativas para la Regulación del Comercio en Espacios Abiert",
+   "title": "Disposiciones Administrativas para la Regulación del Comercio en Espacios Abiertos dentro del Polígono de Intervención Urbana Especial Industrial",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 7,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/DisposicionesRegulacionComercioEspaciosAbiertos.pdf",
+     "sha256": "ac9f11e6e7ee624c63548e84c3d16adba7907651970949d29624947813e3e8ca"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-centros-de-apuestas-remotas-salas-de-sorteos-de-numero",
+   "short": "Reglamento para Centros de Apuestas Remotas, Salas de Sorteos de Números y Casin",
+   "title": "Reglamento para Centros de Apuestas Remotas, Salas de Sorteos de Números y Casinos para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2017-12-07",
+     "units": 28,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.CentrosApuestasSalasSorteosCasinosGdl.pdf",
+     "sha256": "e4124601f92e1f79b949750bd28d4057fad92020dcf25d4eba5a407005508cc5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-la-cronica-y-la-historia",
+   "short": "Reglamento del Consejo de la Crónica y la Historia de Guadalajara",
+   "title": "Reglamento del Consejo de la Crónica y la Historia de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2017-10-13",
+     "units": 23,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoCronicaHistoriaGuadalajara.pdf",
+     "sha256": "18ec0345495b3178449f4e897be4212d0fb6ff08551c6a8e3229ba254b84d8a7"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-salud",
+   "short": "Reglamento de Salud para el Municipio de Guadalajara",
+   "title": "Reglamento de Salud para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2017-08-21",
+     "units": 63,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.SaludGuadalajara.pdf",
+     "sha256": "e026467c4fb0fa6d3c865afea17f07bbdb4609dac98d38a808b8f89d6580805f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-visitas-oficiales-del-ayuntamiento",
+   "short": "Reglamento de Visitas Oficiales del Ayuntamiento de Guadalajara",
+   "title": "Reglamento de Visitas Oficiales del Ayuntamiento de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 27,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.VisitasOficialesAyuntamientoGdl.pdf",
+     "sha256": "975f447732457f71f14b4701dc0ebbce144704ede741e4438ca12ae1bbbf113f"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-que-contienen-las-reglas-para-la-realiza",
+   "short": "Disposiciones Administrativas que contienen las Reglas para la Realización de Tr",
+   "title": "Disposiciones Administrativas que contienen las Reglas para la Realización de Trámites Electrónicos en Materia de Desarrollo Urbano del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2017-07-07",
+     "units": 1,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/DisposicionesAdminReglasRealizacionTramitesElectronicosDesarrolloUrbanoMunicipioGuadalajara.pdf",
+     "sha256": "efb0bea461e01d12c051f570c4365c687cfabc53bef575cc0c35e03c13a2be82"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-catastro",
+   "short": "Reglamento de Catastro para el Municipio de Guadalajara",
+   "title": "Reglamento de Catastro para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 157,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/ReglamentoCatastroGuadalajara.pdf",
+     "sha256": "7b50b4dc11a7035cd06f391daef5cd9f01ca796773f9d5aef0de6246dd2e7ed6"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-prestacion-del-servicio-de-aseo-publico-en-el-munic",
+   "short": "Reglamento para la prestación del servicio de Aseo Público en el Municipio de Gu",
+   "title": "Reglamento para la prestación del servicio de Aseo Público en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 112,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.PrestacionServicioAseoPublicoGuadalajara.pdf",
+     "sha256": "aabe2939c399ff8228ec3e0a0898dc092de9aeb4afb1e599cca211d3ade25e70"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interno-del-centro-de-convivencia-municipal",
+   "short": "Reglamento Interno del Centro de Convivencia Municipal de Guadalajara",
+   "title": "Reglamento Interno del Centro de Convivencia Municipal de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 39,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.internocentroconvivenciamunicipalguadalajara.pdf",
+     "sha256": "a4814a9da5f45a6eecbc8f0bf7718583e1f4e84659c6a0438170962af88ea41b"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-de-cultura-ambiental",
+   "short": "Reglamento del Consejo Consultivo de Cultura Ambiental del Municipio de Guadalaj",
+   "title": "Reglamento del Consejo Consultivo de Cultura Ambiental del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 24,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/RegConsejoCunsultivoCulturaAmbiental.pdf",
+     "sha256": "b4ae436c8eb98b2d907f1ab50210cef3af91b1b645f71b6303e0cadd56129da0"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-tecnico-de-catastro",
+   "short": "Reglamento del Consejo Técnico de Catastro del Municipio de Guadalajara",
+   "title": "Reglamento del Consejo Técnico de Catastro del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 22,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoTecnicoCatastroGuadalajara.pdf",
+     "sha256": "8da0901d3a18f4c3e36b19d63d83a3dd97b2ee1d1158e3f9c038160035699c5d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-acceso-a-espacios-publicos-para-las-personas-con-discapa",
+   "short": "Reglamento de Acceso a Espacios Públicos para las Personas con Discapacidad para",
+   "title": "Reglamento de Acceso a Espacios Públicos para las Personas con Discapacidad para el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 203,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/reg.accesoespaciospublicospersonasdiscapacidadguadalajara.pdf",
+     "sha256": "668c7d049176e084d37b757d6a1e3ef217ff79e2afbe13c7e00d88408e00a407"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-los-centros-de-tratamiento-y-rehabilitacion-de-persona",
+   "short": "Reglamento para los Centros de Tratamiento y Rehabilitación de Personas con Prob",
+   "title": "Reglamento para los Centros de Tratamiento y Rehabilitación de Personas con Problemas de Drogadicción y Alcoholismo del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 17,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.CentrosTratamientoRehabilitacionProblemasDrogadiccionAlcoholismo.pdf",
+     "sha256": "563341eec8cb8ab14c7a6ab2085c2b59d8ddeddd4ec2cb4df210046594b29df2"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-regularizacion-de-fraccionamientos-o-asentamientos",
+   "short": "Reglamento para la Regularización de Fraccionamientos o Asentamientos Humanos Ir",
+   "title": "Reglamento para la Regularización de Fraccionamientos o Asentamientos Humanos Irregulares en Predios de Propiedad Privada en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2010-05-04",
+     "units": 36,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.Reg_.Fracc_.Asen_.Hum_.Irreg_.Pred_.Prop_.Priv_.pdf",
+     "sha256": "509634dca0e8c699bedac30e5965695aebe0bf505811512b874e96e7101ab89d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-organismo-publico-descentralizado-de-la-administracion",
+   "short": "Reglamento del Organismo Público Descentralizado de la Administración Pública Mu",
+   "title": "Reglamento del Organismo Público Descentralizado de la Administración Pública Municipal denominado Patronato para la Administración de Estancias Infantiles con Discapacidad Neuromotora de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2009-12-31",
+     "units": 31,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.OrganismoPub.DescentralizadoPatronatoEstanciasInfantiles.pdf",
+     "sha256": "5ab5c1b46af8ac95df50703a0345b49ec8aecbec748e9b0df0942f5cbd634ca8"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-para-la-regulacion-del-ejericio-del-come",
+   "short": "Disposiciones Administrativas para la Regulación del Ejericio del Comercio en el",
+   "title": "Disposiciones Administrativas para la Regulación del Ejericio del Comercio en el Bazar del Trocadero",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 6,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/DispoAdminComercioBazarTrocadero.pdf",
+     "sha256": "7d714179eaf4c45f3a0a97946fc66a7678392b7cf649037731d3f76bff9a9c3f"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-de-caracter-general-para-la-zona-denomin",
+   "short": "Disposiciones Administrativas de Carácter General para la zona denominada \"Plaza",
+   "title": "Disposiciones Administrativas de Carácter General para la zona denominada \"Plaza de los Mariachis\"",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 11,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Disp.Admin_.PlazaLosMariachis.pdf",
+     "sha256": "302cf258d98bfbab8e4a817f7bcb14db9cb9b7b17a14e794a55a885b6f57e787"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-ciudadano-coordinador-del-centro-his",
+   "short": "Reglamento del Consejo Consultivo Ciudadano Coordinador del Centro Histórico en ",
+   "title": "Reglamento del Consejo Consultivo Ciudadano Coordinador del Centro Histórico en el Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 24,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ConsejoConsultivoCiudadanoCoordinadorCentroHistoricoGuadalajara.pdf",
+     "sha256": "15279537750aad949b7125fa29ace64e1650488a205528e1683eaa6d517f3f4c"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-organismo-publico-descentralizado-de-la-administracion-2",
+   "short": "Reglamento del Organismo Público Descentralizado de la Administración Pública Mu",
+   "title": "Reglamento del Organismo Público Descentralizado de la Administración Pública Municipal de Guadalajara denominado Zoológico Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2007-06-04",
+     "units": 18,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.OrganismoPub.DescentralizadoZoologicoGuadalajara.pdf",
+     "sha256": "17dc51b4633ac33d0bbecbf397a50684dde4bc50a84d2ce13cfae9e629b6f6c2"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-comision-mixta-de-capacitacion-y-escalafon-para-los-s",
+   "short": "Reglamento de la Comisión Mixta de Capacitación y Escalafón para los Servidores ",
+   "title": "Reglamento de la Comisión Mixta de Capacitación y Escalafón para los Servidores Públicos del Ayuntamiento de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2001-02-27",
+     "units": 39,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.ComisionMixtaCapacitacionEscalafonServidoresPublicosGuadalajara.pdf",
+     "sha256": "272ebbd47d3c952632ac243e5075404248b0c7b2ddec6bfe10b6def9c3cf0443"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-que-regula-la-admision-funciones-condiciones-de-trabajo-y-d",
+   "short": "Reglamento que Regula la Admisión, Funciones, Condiciones de Trabajo y demás Gen",
+   "title": "Reglamento que Regula la Admisión, Funciones, Condiciones de Trabajo y demás Generalidades a que se Ajusta el Servicio de Residencia o Posgrado dentro de la Dirección General Municipal de Salud del Municipio de Guadalajara",
+   "url": "https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+   "versions": [
+    {
+     "from": "2001-02-27",
+     "units": 51,
+     "source_url": "https://transparenciagdl.guadalajara.gob.mx/sites/default/files/reglamentos/Reg.RegulaAdmisionFuncionesCondicionesTrabajoGeneralidadesServicioResidencia.pdf",
+     "sha256": "6aa111901a50ce7f8a235e4ad87fd6fe8b2a743e5cb0dd662d1cd679733cbf1a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "mx-jal-guadalajara",
+  "code": "MX-JAL-GUADALAJARA",
+  "name": "Guadalajara (city)",
+  "level": "municipality",
+  "parent": "mx-jal",
+  "repo": "https://github.com/lexifina/mexico-guadalajara-city-law",
+  "build": "built: reglamentos municipales vigentes of Guadalajara, current text only (101), from https://transparencia.guadalajara.gob.mx/articulo-8/ii-la-informacion-sobre-el-marco-juridico-aplicable-al-y-por-el-sujeto-obligado-que-comprende/d-los-reglamentos-federales-estatales-y-municipales",
+  "language": "es",
+  "sources": 1
+}
