@@ -1,5 +1,7 @@
 # Guadalajara (city): municipal law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Guadalajara, Jalisco, Mexico, which global-law reads at `mexico/jalisco/guadalajara/acts/`.
+
 The municipal law of Municipio de Guadalajara (Jalisco, Mexico) as a git history: its reglamentos, one file per article, one paragraph per line, so `git log`, `git blame` and `git diff` work article by article.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mx-jal-guadalajara/`. The law of the State of Jalisco is in [lexifina/mexico-jalisco-law](https://github.com/lexifina/mexico-jalisco-law), and Mexico's federal law in [lexifina/mexico-law](https://github.com/lexifina/mexico-law).
